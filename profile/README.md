@@ -25,7 +25,7 @@ Menjadi wadah keilmiahan dan kreativitas mahasiswa UNNES yang berdasarkan pada T
 - Mengembangkan jiwa kewirausahaan dan pengabdian mahasiswa UNNES berbasis penelitian keilmuan.
 
 ## Logo
-![UKMO Logo]([https://github.com/4211421036/g4lihru/blob/main/Pemprogaman/Pemprogaman%20Sistem%20Instrumentasi/Logo-Transparan-Warna-1-225x300.png](https://github.com/UKM-Penelitian-UNNES/.github/blob/a3e7502d9a52c0b7c3e9968eda812993cca23cae/profile/ukmp-logo-512x512-white.png))
+![UKMO Logo]([https://github.com/4211421036/g4lihru/blob/main/Pemprogaman/Pemprogaman%20Sistem%20Instrumentasi/Logo-Transparan-Warna-1-225x300.png](https://github.com/UKM-Penelitian-UNNES/.github/blob/a3e7502d9a52c0b7c3e9968eda812993cca23cae/profile/ukmp-logo-512x512-white.png)
 ## Pasal 13
 ### Makna Logo
 
