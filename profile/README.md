@@ -25,7 +25,7 @@ Menjadi wadah keilmiahan dan kreativitas mahasiswa UNNES yang berdasarkan pada T
 - Mengembangkan jiwa kewirausahaan dan pengabdian mahasiswa UNNES berbasis penelitian keilmuan.
 
 ## Logo
-!Logo UKMP []
+!Logo UKMP [profile/ukmp-logo-512x512-white.png]
 ## Pasal 13
 ### Makna Logo
 
