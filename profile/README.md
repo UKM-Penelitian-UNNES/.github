@@ -26,7 +26,6 @@ Menjadi wadah keilmiahan dan kreativitas mahasiswa UNNES yang berdasarkan pada T
 
 ## Logo
 ![UKMP Logo](https://github.com/UKM-Penelitian-UNNES/.github/blob/a3e7502d9a52c0b7c3e9968eda812993cca23cae/profile/ukmp-logo-512x512-white.png)
-## Pasal 13
 ### Makna Logo
 
 #### Bentuk
