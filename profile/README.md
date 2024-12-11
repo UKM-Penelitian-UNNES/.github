@@ -45,4 +45,4 @@ Menjadi wadah keilmiahan dan kreativitas mahasiswa UNNES yang berdasarkan pada T
 - Tulisan UKM Penelitian UNNES menggunakan jenis huruf Arial, dicetak Kapital dan tebal.
 
 ## Struktur Organisasi
-![UKMP Logo](https://github.com/UKM-Penelitian-UNNES/.github/blob/4aa1d04955c3d7a87e6ce9713f9f83764ee15c7c/profile/StrukturOrganisasiUKMP.png)
+![UKMP Logo](https://github.com/UKM-Penelitian-UNNES/.github/blob/07a3b2e1352bdaf87dd40e8235317a701378de20/profile/StrukturOrganisasi.png)
